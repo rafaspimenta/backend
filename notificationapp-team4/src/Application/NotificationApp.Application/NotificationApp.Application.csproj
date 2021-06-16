@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.0.0-preview2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\NotificationApp.Domain.Core\NotificationApp.Domain.Core.csproj" />
+    <ProjectReference Include="..\..\NotificationApp.Core\NotificationApp.Core.csproj" />
+    <ProjectReference Include="..\NotificationApp.Application.Core\NotificationApp.Application.Core.csproj" />
+  </ItemGroup>
+
+</Project>

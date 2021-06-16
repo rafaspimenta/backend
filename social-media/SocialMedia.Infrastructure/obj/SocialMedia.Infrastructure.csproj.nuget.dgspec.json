@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\@git\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectName": "SocialMedia.Core",
+        "projectPath": "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\SANR\\.nuget\\packages\\",
+        "outputPath": "D:\\@git\\SocialMedia\\SocialMedia.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SANR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "http://10.40.58.57:8081/artifactory/api/nuget/nuget-libraries": {},
+          "http://187.1.89.148:8081/artifactory/api/nuget/nuget-libraries": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\@git\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\@git\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectName": "SocialMedia.Infrastructure",
+        "projectPath": "D:\\@git\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\SANR\\.nuget\\packages\\",
+        "outputPath": "D:\\@git\\SocialMedia\\SocialMedia.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SANR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://10.40.58.57:8081/artifactory/api/nuget/nuget-libraries": {},
+          "http://187.1.89.148:8081/artifactory/api/nuget/nuget-libraries": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {
+              "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Api.deps.json
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Api.dll
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Api.pdb
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Application.Core.dll
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Core.dll
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Domain.Core.dll
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Application.Core.pdb
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Domain.Core.pdb
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\bin\Debug\netstandard2.0\NotificationApp.Core.pdb
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.csprojAssemblyReference.cache
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.AssemblyInfoInputs.cache
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.AssemblyInfo.cs
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.csproj.CoreCompileInputs.cache
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.csproj.CopyComplete
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.dll
+D:\@git\test\notificationapp-team4\src\Api\NotificationApp.Api\obj\Debug\netstandard2.0\NotificationApp.Api.pdb

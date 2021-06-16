@@ -1,0 +1,15 @@
+D:\@git\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net5.0\SocialMedia.Core.dll
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.csprojAssemblyReference.cache
+D:\@git\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net5.0\SocialMedia.Infrastructure.deps.json
+D:\@git\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net5.0\SocialMedia.Infrastructure.dll
+D:\@git\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net5.0\ref\SocialMedia.Infrastructure.dll
+D:\@git\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net5.0\SocialMedia.Infrastructure.pdb
+D:\@git\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net5.0\SocialMedia.Core.pdb
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.dll
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\ref\SocialMedia.Infrastructure.dll
+D:\@git\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net5.0\SocialMedia.Infrastructure.pdb

@@ -1,0 +1,8 @@
+D:\@git\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2\SocialMedia.Core.deps.json
+D:\@git\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2\SocialMedia.Core.dll
+D:\@git\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2\SocialMedia.Core.pdb
+D:\@git\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2\SocialMedia.Core.AssemblyInfoInputs.cache
+D:\@git\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2\SocialMedia.Core.AssemblyInfo.cs
+D:\@git\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2\SocialMedia.Core.csproj.CoreCompileInputs.cache
+D:\@git\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2\SocialMedia.Core.dll
+D:\@git\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2\SocialMedia.Core.pdb

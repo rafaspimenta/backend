@@ -1,0 +1,12 @@
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\bin\Debug\netstandard2.0\NotificationApp.Domain.Core.deps.json
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\bin\Debug\netstandard2.0\NotificationApp.Domain.Core.dll
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\bin\Debug\netstandard2.0\NotificationApp.Domain.Core.pdb
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\bin\Debug\netstandard2.0\NotificationApp.Core.dll
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\bin\Debug\netstandard2.0\NotificationApp.Core.pdb
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.csprojAssemblyReference.cache
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.AssemblyInfoInputs.cache
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.AssemblyInfo.cs
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.csproj.CoreCompileInputs.cache
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.csproj.CopyComplete
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.dll
+D:\@git\test\notificationapp-team4\src\Domain\NotificationApp.Domain.Core\obj\Debug\netstandard2.0\NotificationApp.Domain.Core.pdb

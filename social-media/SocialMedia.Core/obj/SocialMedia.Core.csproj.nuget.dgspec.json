@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectName": "SocialMedia.Core",
+        "projectPath": "D:\\@git\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\SANR\\.nuget\\packages\\",
+        "outputPath": "D:\\@git\\SocialMedia\\SocialMedia.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SANR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "http://10.40.58.57:8081/artifactory/api/nuget/nuget-libraries": {},
+          "http://187.1.89.148:8081/artifactory/api/nuget/nuget-libraries": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

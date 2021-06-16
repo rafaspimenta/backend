@@ -1,0 +1,8 @@
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\bin\Debug\netstandard2.0\NotificationApp.Core.deps.json
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\bin\Debug\netstandard2.0\NotificationApp.Core.dll
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\bin\Debug\netstandard2.0\NotificationApp.Core.pdb
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\obj\Debug\netstandard2.0\NotificationApp.Core.AssemblyInfoInputs.cache
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\obj\Debug\netstandard2.0\NotificationApp.Core.AssemblyInfo.cs
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\obj\Debug\netstandard2.0\NotificationApp.Core.csproj.CoreCompileInputs.cache
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\obj\Debug\netstandard2.0\NotificationApp.Core.dll
+D:\@git\test\notificationapp-team4\src\NotificationApp.Core\obj\Debug\netstandard2.0\NotificationApp.Core.pdb
