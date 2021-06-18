@@ -9,7 +9,7 @@
     <body>
         <div class="navbar">
             <div class="container">
-                <a href="#">Remember<span>That</span></a>
+                <a class="logo" href="#">Remember<span>That</span></a>
 
                 <img id="mobile-cta" class="mobile-menu" src="images/menu.svg" alt="Open Navigation">
 
@@ -35,21 +35,22 @@
                 <div class="left-col">
                     <p class="subhead">It's Nitty &amp; Gritty</p>
                     <h1>A Task App That Doesn't Stink</h1>
+
                     <div class="hero-cta">
                         <a href="#" class="primary-cta">Try for free</a>
-                        <a href="#" class="wathc-video-cta">
+                        <a href="#" class="watch-video-cta">
                             <img src="images/watch.svg" alt="Watch a video">Watch a video>
                         </a>
                     </div>
                 </div>
+                
+                <img src="images/illustration.svg" class="hero-img" alt="Illustration">
             </div>
-
-            <img src="images/illustration.svg" class="hero-img" alt="Illustration">
         </section>
 
-        <div class="section features">
+        <section class="features-section">
             <div class="container">
-                <ul>
+                <ul class="features-list">
                     <li>Unlimited Tasks</li>
                     <li>SMS Task Reminders</li>
                     <li>Confetti Explosions upon Task Completions</li>
@@ -57,62 +58,75 @@
                     <li>Real Time Collaboration</li>
                     <li>Other awesome features</li>
                 </ul>
+            
                 <img src="images/holding-phone.jpg" alt="Man holding phone">
-                <section class="testimonials-section">
-                    <div class="container">
-                        <ul>
-                            <li>
-                                <img src="images/person.jpg" alt="Person">
-                                <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</blockquote>
-                                <cite>Jane Doe</cite>
-                            </li>
-                            <li>
-                                <img src="images/person.jpg" alt="Person">
-                                <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                                    industry's standard.</blockquote>
-                                <cite>Jane Doe</cite>
-                            </li>
-                            <li>
-                                <img src="images/person.jpg" alt="Person">
-                                <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                                    industry's standard.</blockquote>
-                                <cite>Jane Doe</cite>
-                            </li>
-                            <li>
-                                <img src="images/person.jpg" alt="Person">
-                                <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                                    industry's standard.</blockquote>
-                                <cite>Jane Doe</cite>
-                            </li>
-                        </ul>
-                    </div>
-                </section>
-
-                <section class="contact-section">
-                    <div class="container">
-                        <div class="contact-left">
-                            <h2>Contact</h2>
-                            <form action="">
-                                <label for="name">Name</label>
-                                <input type="text" id="name" name="name">                                
-                                <label for="message">Message</label>
-                                <textarea type="text" id="message" name="message" cols="30" rows="10"></textarea>
-
-                                <input type="submit" class="send-message-cta" value="Send Message"/>
-                            </form>
-                        </div>
-                        <div class="contact-right">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.64906231317!2d-46.62742198543438!3d-23.50914668470881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5883a7e84a97%3A0x40ceb41b0ad579ca!2sCarandiru!5e0!3m2!1spt-BR!2sbr!4v1623814397448!5m2!1spt-BR!2sbr"
-                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
-                            </iframe>
-                        </div>
-                    </div>
-                </section>
-
             </div>
-        </div>
+        </section>
 
-        
+        <section class="testimonials-section">
+            <div class="container">
+                <ul>
+                    <li>
+                        <img src="images/person.jpg" alt="Person">
+                        <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</blockquote>
+                        <cite>Jane Doe</cite>
+                    </li>
+                    <li>
+                        <img src="images/person.jpg" alt="Person">
+                        <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                            industry's standard.</blockquote>
+                        <cite>Jane Doe</cite>
+                    </li>
+                    <li>
+                        <img src="images/person.jpg" alt="Person">
+                        <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                            industry's standard.</blockquote>
+                        <cite>Jane Doe</cite>
+                    </li>
+                    <li>
+                        <img src="images/person.jpg" alt="Person">
+                        <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                            industry's standard.</blockquote>
+                        <cite>Jane Doe</cite>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="contact-section">
+            <div class="container">
+                <div class="contact-left">
+                    <h2>Contact</h2>
+
+                    <form action="">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name">                                
+                        <label for="message">Message</label>
+                        <textarea type="text" id="message" name="message" cols="30" rows="10"></textarea>
+
+                        <input type="submit" class="send-message-cta" value="Send Message"/>
+                    </form>
+                </div>
+                <div class="contact-right">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.64906231317!2d-46.62742198543438!3d-23.50914668470881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5883a7e84a97%3A0x40ceb41b0ad579ca!2sCarandiru!5e0!3m2!1spt-BR!2sbr!4v1623814397448!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"> </iframe>
+                </div>
+                
+            </div>
+        </section>
+
+        <script>
+            let mobileBtn = document.getElementById('mobile-cta')
+                nav = document.querySelector('nav')
+                mobileBtnExit = document.getElementById('mobile-exit');
+
+            mobileBtn.addEventListener('click', () => {
+                nav.classList.add('menu-btn');
+            })
+
+            mobileBtnExit.addEventListener('click', () => {
+                    nav.classList.remove('menu-btn');
+                })
+
+        </script>
     </body>
 </html>
