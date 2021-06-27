@@ -39,7 +39,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationApp.Application.Test", "tests\Application\NotificationApp.Application.Test\NotificationApp.Application.Test.csproj", "{E6E216AB-13EA-4154-82A9-0010F55C353F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationApp.Domain.Models", "src\Domain\NotificationApp.Domain.Models\NotificationApp.Domain.Models.csproj", "{3958CC0C-90F5-4FDC-B6B8-BC67AD98D758}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationApp.Domain.Models", "src\Domain\NotificationApp.Domain.Models\NotificationApp.Domain.Models.csproj", "{3958CC0C-90F5-4FDC-B6B8-BC67AD98D758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2603E27C-5380-451E-87B5-CCD080CD7151}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{3958CC0C-90F5-4FDC-B6B8-BC67AD98D758}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3958CC0C-90F5-4FDC-B6B8-BC67AD98D758}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3958CC0C-90F5-4FDC-B6B8-BC67AD98D758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2603E27C-5380-451E-87B5-CCD080CD7151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2603E27C-5380-451E-87B5-CCD080CD7151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2603E27C-5380-451E-87B5-CCD080CD7151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2603E27C-5380-451E-87B5-CCD080CD7151}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
