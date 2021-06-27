@@ -1,2 +1,2 @@
 # personal
-Repository I use to learn technologies
+Repository I use to learn backend technologies
